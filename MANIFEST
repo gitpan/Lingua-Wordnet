@@ -2,5 +2,5 @@ Changes
 MANIFEST
 Makefile.PL
 Wordnet.pm
-Wordnet.xs
+Analysis/Analysis.pm
 test.pl
